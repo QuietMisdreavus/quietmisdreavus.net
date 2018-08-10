@@ -41,6 +41,11 @@ main {
             color: $text-color;
             text-decoration: none;
         }
+        p {
+            margin-left: 4rem;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
     }
 }
 .post {
