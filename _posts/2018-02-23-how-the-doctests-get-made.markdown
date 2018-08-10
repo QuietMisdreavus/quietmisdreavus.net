@@ -1,6 +1,7 @@
 ---
 layout: post
 title: how the ~~sausage~~ doctests get made
+description: breaking down how rustdoc turns a code sample into a test
 date: 2018-02-23 16:00 -0600
 categories: code
 ---

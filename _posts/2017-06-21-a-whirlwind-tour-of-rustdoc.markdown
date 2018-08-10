@@ -1,6 +1,8 @@
 ---
 layout: post
 title: a whirlwind tour of rustdoc
+description:
+  a walkthrough of the internals of Rust's documentation tool, rustdoc
 date: 2017-06-21 1830 -0500
 categories: code
 ---

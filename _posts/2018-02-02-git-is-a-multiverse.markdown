@@ -1,6 +1,8 @@
 ---
 layout: post
 title: git is a multiverse
+description:
+  a git tutorial, by way of describing how repositories have at least six spatial dimensions
 date: 2018-02-02 16:00 -0600
 categories: code
 ---

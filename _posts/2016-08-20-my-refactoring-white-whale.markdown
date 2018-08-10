@@ -1,6 +1,7 @@
 ---
 layout: post
 title: my refactoring white whale
+description: a discussion of refactoring the "egg-mode" library through a series of compiler errors
 date: 2016-08-20 12:00 -0500
 categories: code
 ---

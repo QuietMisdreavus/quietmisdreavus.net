@@ -1,6 +1,7 @@
 ---
 layout: post
 title: possibility space
+description: a discussion about how my interest in games has changed over time
 date: 2016-08-18 19:00 -0500
 categories: self
 ---

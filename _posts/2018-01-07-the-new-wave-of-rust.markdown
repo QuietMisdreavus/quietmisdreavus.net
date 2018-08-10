@@ -1,6 +1,7 @@
 ---
 layout: post
 title: the new wave of rust
+description: a wishlist of what i would like to accomplish with Rust in 2018
 date: 2018-01-07 18:00 -0600
 categories: code
 ---

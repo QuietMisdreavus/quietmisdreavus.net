@@ -1,6 +1,9 @@
 ---
 layout: post
 title: coherence versus generic traits in rust
+description:
+  breaking down how Rust's From trait allows for custom implementations, by talking about its
+  coherence system
 date: 2017-01-01 13:00 -0600
 categories: code
 ---
