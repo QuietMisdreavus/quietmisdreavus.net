@@ -7,6 +7,7 @@ Here's a listing of slides for talks i've given. If i can find recordings i'll g
 them, but this should at least give you some of the general ideas i was going for.
 
 - [the dark secrets lurking inside cargo doc][dark-secrets] (RustConf 2018, 2018-08-17)
+  - [Recording available on YouTube](https://www.youtube.com/watch?v=3wcXj67N6eE)
   - A rundown of some features of rustdoc i consider obscure or off-the-beaten-path.
 
 [dark-secrets]: {{ site.baseurl }}/slides/the dark secrets lurking inside cargo doc.pdf
