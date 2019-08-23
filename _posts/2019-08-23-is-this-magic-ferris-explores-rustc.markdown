@@ -4,7 +4,7 @@ title: Is This Magic!? Ferris Explores Rustc!
 description:
   a companion to the RustConf 2019 talk with the same name; an introduction to making your first
   contribution to the Rust compiler
-date: 2019-08-23 12:00 -0600
+date: 2019-08-23 10:00 -0600
 categories: code
 ---
 
