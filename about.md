@@ -4,13 +4,15 @@ title:     About
 permalink: /about/
 ---
 - Author:  QuietMisdreavus (a.k.a. grey)
+- Pronouns: she/her or they/them
 - Email:   words@quietmisdreavus.net
 - Twitter: <https://twitter.com/QuietMisdreavus>
 - Github:  <https://github.com/QuietMisdreavus>
 
-Hi, i'm grey! I write some Rust in my downtime. You may have seen me around Twitter, rambling about
-rustdoc. I'm one of it's official maintainers. I've also written some other Rust libraries, and even
-written some not-Rust things for dayjobs and other personal projects. Thanks for stopping by!
+Hi, i'm grey! You might recognize me from the Rust community, where i help maintain the `rustdoc`
+tool, and the `docs.rs` documentation hosting service.  I've also written some other Rust libraries,
+and even written some not-Rust things for dayjobs and other personal projects. Thanks for stopping
+by!
 
 In a past life, I hung out in chiptune communities and wrote some covers as [icesoldier][].
 If you knew me before 2015 that's the alias I would have used.
