@@ -4,7 +4,6 @@ title: rustdoc in 2019
 description:
   a recap of the 2019 Rust All-Hands from a rustdoc perspective; and the 2019 roadmap for the
   Rustdoc Team
-date: 2019-02-19 12:00 -0600
 categories: code
 ---
 

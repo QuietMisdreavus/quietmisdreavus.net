@@ -4,7 +4,6 @@ title: "home: unknown"
 description:
   thoughts on the concept of "home" and the whirlwind of change surrounding my batch at the Recurse
   Center
-date: 2019-12-08 15:00 -0500
 categories: self
 ---
 

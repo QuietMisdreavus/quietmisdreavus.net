@@ -4,7 +4,6 @@ title: come work on rustdoc!
 description:
   an invitation for new contributors to work on rustdoc, as part of 2017's "impl period", including
   a walkthrough of writing Pull Requests on GitHub
-date: 2017-09-18 11:00 -0500
 categories: code
 ---
 

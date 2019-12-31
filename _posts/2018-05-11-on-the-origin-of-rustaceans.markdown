@@ -2,7 +2,6 @@
 layout: post
 title: on the origin of rustaceans
 description: an origin story of how i started working with, and later on, Rust
-date: 2018-05-11 13:30 -0500
 categories: code
 ---
 

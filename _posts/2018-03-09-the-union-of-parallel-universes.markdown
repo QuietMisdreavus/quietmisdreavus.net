@@ -4,7 +4,6 @@ title: the union of parallel universes
 description:
   breaking down how rustdoc can display docs from multiple platforms at the same time, and why
   that's significant
-date: 2018-03-09 14:30 -0600
 categories: code
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: not a layer cake analogy
 description: a discussion of what "intermediate docs" means, and a wishlist of such docs for Rust
-date: 2018-01-10 12:00 -0600
 categories: code
 ---
 

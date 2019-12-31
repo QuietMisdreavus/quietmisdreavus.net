@@ -2,7 +2,6 @@
 layout: post
 title: rust in the new age
 description: a wishlist of what i would like to accomplish with Rust in 2019
-date: 2018-12-07 17:00 -0600
 categories: code
 ---
 

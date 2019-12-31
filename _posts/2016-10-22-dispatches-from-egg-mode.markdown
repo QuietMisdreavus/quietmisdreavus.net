@@ -2,7 +2,6 @@
 layout: post
 title: notes on building a medium-sized library in rust
 description: a handful of lessons learned from writing the "egg-mode" twitter library
-date: 2016-10-22 12:00 -0500
 categories: code
 ---
 
