@@ -4,6 +4,8 @@ description: notes about programming but also whatever else a quiet misdreavus p
 baseurl: ""
 url: "https://quietmisdreavus.net"
 
+author: QuietMisdreavus
+
 exclude: ["README.md"]
 
 date_format: "%Y-%m-%d"
