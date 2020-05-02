@@ -9,7 +9,7 @@ permalink: /about/
 - Twitter: <https://twitter.com/QuietMisdreavus>
 - Github:  <https://github.com/QuietMisdreavus>
 
-Hi, i'm victoria! You might recognize me from the Rust community, where i help maintain the
+Hi, i'm victoria! You might recognize me from the Rust community, where i helped maintain the
 `rustdoc` tool, and the `docs.rs` documentation hosting service.  I've also written some other Rust
 libraries, and even written some not-Rust things for dayjobs and other personal projects. Thanks for
 stopping by!
