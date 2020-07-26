@@ -14,3 +14,7 @@ date_format: "%Y-%m-%d"
 kramdown:
   input: GFM
 permalink: pretty
+
+category_descriptions:
+  self: "personal posts, or posts about social topics"
+  code: "posts about programming projects or concepts"
