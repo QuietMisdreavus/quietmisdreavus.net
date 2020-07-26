@@ -4,10 +4,11 @@ title:     About
 permalink: /about/
 ---
 - Author:  QuietMisdreavus (a.k.a. victoria)
-- Pronouns: she/her or they/them
+- Pronouns: she/her
 - Email:   words@quietmisdreavus.net
 - Twitter: <https://twitter.com/QuietMisdreavus>
 - Github:  <https://github.com/QuietMisdreavus>
+- Alternate blog: <https://micro.quietmisdreavus.net/>
 
 Hi, i'm victoria! You might recognize me from the Rust community, where i helped maintain the
 `rustdoc` tool, and the `docs.rs` documentation hosting service.  I've also written some other Rust
