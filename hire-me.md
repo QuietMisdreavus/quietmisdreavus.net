@@ -254,6 +254,8 @@ projects over this time include:
   refactors][egg-prs].
 * Created three new websites ([micro], [FOSS Pride], [links]), and in the process learned a lot
   about Jekyll and Ruby.
+* Created [a Vim color scheme randomizer][mkcolor], learning a lot about color theory and web design
+  along the way.
 
 [haskell-book]: https://leanpub.com/finding-success-in-haskell
 [Building Git]: https://shop.jcoglan.com/building-git/
@@ -265,6 +267,7 @@ projects over this time include:
 [micro]: https://micro.quietmisdreavus.net
 [FOSS Pride]: https://fosspride.org
 [links]: https://links.quietmisdreavus.net
+[mkcolor]: https://quietmisdreavus.github.io/mkcolor/
 
 ## the future
 
