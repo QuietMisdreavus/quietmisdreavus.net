@@ -40,6 +40,6 @@ If you knew me before 2015 that's the alias I would have used.
 
 [icesoldier]: http://icesoldier.me
 
-Blog theme: [Vida][]
+Blog theme: [Vida (misdreavus fork)][vida]
 
-[Vida]: https://github.com/syaning/vida
+[vida]: https://github.com/QuietMisdreavus/vida
