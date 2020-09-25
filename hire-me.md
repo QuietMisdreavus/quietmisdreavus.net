@@ -1,6 +1,6 @@
 ---
 layout: page
-title: unemployed software ghost trying to make it in the world
+title: software ghost trying to make it in the world
 permalink: /hire-me/
 ---
 
@@ -10,6 +10,11 @@ applying to, i can hand you my actual resume with proper names/locations/timefra
 actually fits on one page, but this serves as a longer-form spot to host it so i can provide a
 little more context. I'm not super comfortable making a complete CV/resume totally public
 information. Consider this a somewhat-less-formal hybrid of those.
+
+I should note: **At this time, i'm not looking for a new position.** I originally wrote this page to
+help look for a job, but i'm leaving it up now so that existing links won't go dark. I feel like
+it's still valuable to have a public version of my technical background, even if the "hire me" URL
+isn't 100% accurate any more.
 
 If you're interested and want to reach out, you can email me at (victoria AT quietmisdreavus DOT
 net).
@@ -269,8 +274,8 @@ projects over this time include:
 [links]: https://links.quietmisdreavus.net
 [mkcolor]: https://quietmisdreavus.github.io/mkcolor/
 
-## the future
+## job 3: "you might have heard of this one"
 
-Now, at the time i'm writing this (mid-August 2020), i spend most days writing code or prose. I feel
-like i've rebuilt myself into a new person, and i'm ready to go out into the world and make a
-difference. If you've read through all this, i really appreciate it.
+After a year-long hiatus, i started working for "a very large consumer technology company" helping
+with documentation tooling in Swift. At the time of this writing (September 2020) i haven't even
+officially started yet!
