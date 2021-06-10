@@ -6,6 +6,11 @@ permalink: /slides/
 Here's a listing of slides for talks i've given. If i can find recordings i'll go ahead and add
 them, but this should at least give you some of the general ideas i was going for.
 
+- Meet DocC Documentation in Xcode (co-written/-presented with Ethan Kusters)
+  (WWDC 2021, 2021-06-08)
+  - [Recording available on Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10166/)
+  - (slides aren't available, but a transcript is)
+  - An overview of the integration of the DocC documentation tool into Xcode
 - [The Death and Rebirth of Docs.rs][docs-rs] (Rust Belt Rust 2019, 2019-10-19)
   - [Recording available on YouTube](https://www.youtube.com/watch?v=jlqMNwVun7Q)
   - A history of the documentation host Docs.rs.
