@@ -276,6 +276,21 @@ projects over this time include:
 
 ## job 3: "you might have heard of this one"
 
-After a year-long hiatus, i started working for "a very large consumer technology company" helping
-with documentation tooling in Swift. At the time of this writing (September 2020) i haven't even
-officially started yet!
+After a year-long hiatus, i wrote everything on this page up to this point and posted it on Twitter.
+It caught the eye of a manager at "a very large consumer technology company", who oversaw a team
+working on documentation tooling for Swift. I decided to sign up, and joined the team working on
+what would become [DocC]. Since i had gained a fair amount of compiler-development experience
+working on rustdoc, i was tasked with improving its Swift compiler integration.
+
+[DocC]: https://developer.apple.com/documentation/DocC
+
+It was a lot of fun working on something that took the ideas of a documentation tool and extended
+them farther than rustdoc did. And since it reached much farther than the "data-visualization" of
+pure reference documentation, the compiler integration turned out to be one component of a much
+larger system, which gave its own set of concerns when coordinating with other teammates and
+components.
+
+When it came time to announce DocC to the world, i got to help record one of its introductory WWDC
+sessions: [Meet DocC documentation in Xcode][meet-docc].
+
+[meet-docc]: https://developer.apple.com/videos/play/wwdc2021/10166/
