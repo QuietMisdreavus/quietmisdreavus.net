@@ -35,6 +35,8 @@ Before i go into my background in detail, here are a few lists of tools i've wor
 * **Programming languages i've been paid to write / am comfortable writing:**
   * Visual Basic .NET
   * A company-internal language used for scripting
+  * C/C++
+  * Swift
   * Rust
   * SQL (both on PostgreSQL and MS SQL)
   * Bash script
@@ -45,7 +47,6 @@ Before i go into my background in detail, here are a few lists of tools i've wor
 * **Programming languages i wrote a while back and could get up to speed with enough exposure:**
   * Python
   * JavaScript
-  * C/C++
   * Lua
   * Ruby
 
@@ -56,6 +57,7 @@ Before i go into my background in detail, here are a few lists of tools i've wor
   * Git / GitHub
   * Linux (my distro of choice is [Arch Linux], but i've also admin'd an Ubuntu server)
   * Visual Studio
+  * Xcode
 
 [Arch Linux]: https://archlinux.org
 
@@ -279,10 +281,10 @@ projects over this time include:
 After a year-long hiatus, i wrote everything on this page up to this point and posted it on Twitter.
 It caught the eye of a manager at "a very large consumer technology company", who oversaw a team
 working on documentation tooling for Swift. I decided to sign up, and joined the team working on
-what would become [DocC]. Since i had gained a fair amount of compiler-development experience
+what would become [Swift-DocC][docc]. Since i had gained a fair amount of compiler-development experience
 working on rustdoc, i was tasked with improving its Swift compiler integration.
 
-[DocC]: https://developer.apple.com/documentation/DocC
+[docc]: https://github.com/apple/swift-docc/
 
 It was a lot of fun working on something that took the ideas of a documentation tool and extended
 them farther than rustdoc did. And since it reached much farther than the "data-visualization" of
@@ -294,3 +296,16 @@ When it came time to announce DocC to the world, i got to help record one of its
 sessions: [Meet DocC documentation in Xcode][meet-docc].
 
 [meet-docc]: https://developer.apple.com/videos/play/wwdc2021/10166/
+
+Eventually, Swift-DocC [was released to GitHub as open source][docc-oss], and i became one of the
+main maintainers of some of its lower-level libraries:
+
+[docc-oss]: https://www.swift.org/blog/swift-docc/
+
+* [SymbolKit], a library to ingest and process "symbol graphs" containing API information.
+* [Swift Markdown], a wrapper library for parsing Markdown with extensions used by Swift-DocC.
+* A fork of [cmark-gfm], the GitHub-Flavored Markdown library, with additions to support Swift-DocC.
+
+[SymbolKit]: https://github.com/apple/swift-docc-symbolkit
+[Swift Markdown]: https://github.com/apple/swift-markdown
+[cmark-gfm]: https://github.com/apple/swift-cmark/tree/gfm
