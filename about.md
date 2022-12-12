@@ -6,7 +6,6 @@ permalink: /about/
 - Author:  QuietMisdreavus (a.k.a. victoria)
 - Pronouns: she/her
 - Email:   words@quietmisdreavus.net
-- Twitter: <https://twitter.com/QuietMisdreavus>
 - Mastodon: <a rel="me" href="https://squad.town/@QuietMisdreavus">@QuietMisdreavus@squad.town</a>
 - Github:  <https://github.com/QuietMisdreavus>
 - Alternate blog: <https://micro.quietmisdreavus.net/>
