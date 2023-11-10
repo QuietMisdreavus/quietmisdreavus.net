@@ -308,8 +308,12 @@ main maintainers of some of its lower-level libraries:
 
 * [SymbolKit], a library to ingest and process "symbol graphs" containing API information.
 * [Swift Markdown], a wrapper library for parsing Markdown with extensions used by Swift-DocC.
-* A fork of [cmark-gfm], the GitHub-Flavored Markdown library, with additions to support Swift-DocC.
+* [swift-cmark], a fork of the GitHub-Flavored Markdown library with additions to support
+  Swift-DocC.
+* [Swift SymbolGraphGen], the component in the Swift compiler responsible for emitting "symbol
+  graphs" used by Swift-DocC.
 
 [SymbolKit]: https://github.com/apple/swift-docc-symbolkit
 [Swift Markdown]: https://github.com/apple/swift-markdown
-[cmark-gfm]: https://github.com/apple/swift-cmark/tree/gfm
+[cmark-gfm]: https://github.com/apple/swift-cmark
+[Swift SymbolGraphGen]: https://github.com/apple/swift/tree/main/lib/SymbolGraphGen
