@@ -22,31 +22,32 @@ net).
 ## about me
 
 I'm Victoria! Depending on what internet circles you frequent, you may know me from my work in the
-Rust community, where i led the Rustdoc Team and the Docs.rs Team. I've been writing code
-professionally since 2012, and personally since before then. I love to get to the bottom of a
-system, finding exactly how something ticks so i can fix a bug or find just the right way to add a
-feature. I love documentation - reading it and writing it!  Over the course of my career, i've
-worked in varied enough spaces that i'm not super attached to any one platform or toolkit - i
-believe there's a lot of merit to any setup that can get a system running.  Instead i like to figure
-out the capabilities of whatever i'm working with, so i can use it most effectively.
+Rust community, where i led the Rustdoc Team and the Docs.rs Team. Or, you may know me from my work
+in the Swift community, where i helped maintain the Swift-DocC documentation tool. I've been writing
+code professionally since 2012, and personally since a little before then. I love to get to the
+bottom of a system, finding exactly how something ticks so i can fix a bug or find just the right
+way to add a feature. I love documentation - reading it and writing it!  Over the course of my
+career, i've worked in varied enough spaces that i'm not super attached to any one platform or
+toolkit - i believe there's a lot of merit to any setup that can get a system running.  Instead i
+like to figure out the capabilities of whatever i'm working with, so i can use it most effectively.
 
 Before i go into my background in detail, here are a few lists of tools i've worked with:
 
 * **Programming languages i've been paid to write / am comfortable writing:**
-  * Visual Basic .NET
-  * A company-internal language used for scripting
-  * C/C++
   * Swift
-  * Rust
-  * SQL (both on PostgreSQL and MS SQL)
+  * C/C++
   * Bash script
+  * Rust
+  * Visual Basic .NET
+  * SQL (both on PostgreSQL and MS SQL)
   * Vim script
+  * A company-internal language used for scripting
 * **Programming languages i've dabbled in that could get comfortable quickly:**
   * C#
   * Haskell
+  * JavaScript
 * **Programming languages i wrote a while back and could get up to speed with enough exposure:**
   * Python
-  * JavaScript
   * Lua
   * Ruby
 
@@ -55,16 +56,16 @@ Before i go into my background in detail, here are a few lists of tools i've wor
 * **Tools and systems i'm comfortable using:**
   * Vim
   * Git / GitHub
+  * Xcode
   * Linux (my distro of choice is [Arch Linux], but i've also admin'd an Ubuntu server)
   * Visual Studio
-  * Xcode
 
 [Arch Linux]: https://archlinux.org
 
 ## history
 
 I grew up in "a moderately-sized city in Texas". (I'm fairly public about naming it if you've
-followed my Twitter account long enough.) I've been around computers for practically my whole life.
+followed me on social media long enough.) I've been around computers for practically my whole life.
 There's an old story in my family that i learned to recognize letters just enough at age 2.5 so that
 i could find the right floppy disk to play Lemmings.
 
@@ -117,11 +118,11 @@ dive into docs and specs and the like. Some of the projects i helped out with we
 
 ## job 2: "we can't really hire for experience with this language that only exists inside the company"
 
-In 2016, i left job #1 and moved to "a suburb of a large/well-known city in Texas" to start the next
-one. The position was at "a large medical-tech company", working on a machine that ran medical tests
-in labs all around the world. The specific area i was brought on for was the maintenance scripts
-used by the instrument, which were written in a company-internal language that was parsed and
-executed by the system itself.
+In 2016, i left job #1 and moved to "a suburb of Dallas, Texas" to start the next one. The position
+was at "a large medical-tech company", working on a machine that ran medical tests in labs all
+around the world. The specific area i was brought on for was the maintenance scripts used by the
+instrument, which were written in a company-internal language that was parsed and executed by the
+system itself.
 
 Because of the nature of the work - a device that was used to make medical decisions for patients -
 there was a vastly different process for approving code changes, due to the regulations involved. It
@@ -151,10 +152,10 @@ work". Some standout projects i worked on here were:
 
 ## rust
 
-Sort of parallel to job #2 was when i got into the Rust community. I'd been interested in Rust for a
-while, but hadn't really jumped into learning the language before this. The new surroundings let me
-focus some extra energy onto getting started. I started writing [a Twitter library][egg-mode] in
-2016 as a learning project.
+Parallel to job #2 was when i got into the Rust community. I'd been interested in Rust for a while,
+but hadn't really jumped into learning the language before this. The new surroundings let me focus
+some extra energy onto getting started. I started writing [a Twitter library][egg-mode] in 2016 as a
+learning project.
 
 [egg-mode]: https://github.com/egg-mode-rs/egg-mode
 
@@ -200,10 +201,13 @@ Some of the major things i worked on while working on Rustdoc and Docs.rs were:
 [upstream-rustdoc]: https://github.com/rust-lang/docs.rs/pull/243
 
 I've also given [several talks] about the things i worked on as part of the Rust project,
-specifically "the dark secrets lurking inside `cargo doc`", "Is This Magic!? Ferris Explores
-Rustc!", and "The Death and Rebirth of Docs.rs".
+specifically ["the dark secrets lurking inside `cargo doc`"][dark-secrets], ["Is This Magic!? Ferris
+Explores Rustc!"][is-this-magic], and ["The Death and Rebirth of Docs.rs"][death-and-rebirth].
 
 [several talks]: https://quietmisdreavus.net/slides/
+[dark-secrets]: https://www.youtube.com/watch?v=3wcXj67N6eE
+[is-this-magic]: https://www.youtube.com/watch?v=KJ-V2BOtZnM
+[death-and-rebirth]: https://www.youtube.com/watch?v=jlqMNwVun7Q
 
 ## the recurse center
 
@@ -254,7 +258,7 @@ projects over this time include:
   suggestion, as an accelerated introduction to Haskell. Afterward, i picked up the book [Building
   Git] and worked through the first third or so of it, writing it in Haskell instead of the book's
   native Ruby. [I posted my code online.][haskgit]
-* Dove "Way Too Deep" into Vim configuration and script-writing, updating [my personal Vim
+* Dove way too deep into Vim configuration and script-writing, updating [my personal Vim
   configuration][vimfiles] and culminating in exporting a [custom status-line and
   tab-line][ghostline] and [a personal MRU-list script][mru] into separate plugins.
 * Revisited [the Twitter library i wrote][egg-mode] and added [several major features and
@@ -278,11 +282,11 @@ projects over this time include:
 
 ## job 3: "you might have heard of this one"
 
-After a year-long hiatus, i wrote everything on this page up to this point and posted it on Twitter.
-It caught the eye of a manager at "a very large consumer technology company", who oversaw a team
-working on documentation tooling for Swift. I decided to sign up, and joined the team working on
-what would become [Swift-DocC][docc]. Since i had gained a fair amount of compiler-development experience
-working on rustdoc, i was tasked with improving its Swift compiler integration.
+In 2020, after a year-long hiatus, i wrote everything on this page up to this point and posted it on
+Twitter. It caught the eye of a manager at Apple, who oversaw a team working on documentation
+tooling for Swift. I decided to sign up, and joined the team working on what would become
+[Swift-DocC][docc]. Since i had gained a fair amount of compiler-development experience working on
+rustdoc, i was tasked with improving its Swift compiler integration.
 
 [docc]: https://github.com/apple/swift-docc/
 
