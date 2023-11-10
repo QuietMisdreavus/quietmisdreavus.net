@@ -315,5 +315,5 @@ main maintainers of some of its lower-level libraries:
 
 [SymbolKit]: https://github.com/apple/swift-docc-symbolkit
 [Swift Markdown]: https://github.com/apple/swift-markdown
-[cmark-gfm]: https://github.com/apple/swift-cmark
+[swift-cmark]: https://github.com/apple/swift-cmark
 [Swift SymbolGraphGen]: https://github.com/apple/swift/tree/main/lib/SymbolGraphGen
